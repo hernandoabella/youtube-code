@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+
+*{
+    font-family: 'Castoro', serif;
+}
+
+body {
+    margin:0;
+    padding:0;
+    background:#BBCDE5;
+    height:100vh;
+    width:100vw;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+#puntuacion{
+    font-size:25px;
+    font-weight:bold;
+    width:100%;
+    text-align:center;
+    padding-bottom:40px;
+}
+
+#puntuacion2{
+    font-size:25px;
+    font-weight:bold;
+    width:100%;
+    text-align:center;
+    padding:30px;
+}
+
+.circulo{
+    height:calc(100vh/6);
+    width:calc(100vh/6);
+    background:#000;
+    border-radius:100%;
+    display:inline-block;
+    cursor: pointer;
+}
+
+#game_con{
+    height:100vh;
+    width:100vw;
+    display:none;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+}
+
+#tiempo{
+    height:10px;
+    width:100vw;
+    background: #08AEEA;
+    position:fixed;
+    top:0;
+    left:0;
+}
+
+.menu{
+    height:400px;
+    width:380px;
+    background:#1C5D99;
+    color: #fff;
+    border-radius:5px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+}
+
+#cn_menu{
+    height:100vh;
+    width:100vw;
+    display:none;
+    align-items:center;
+    justify-content:center;
+}
+
+#game_over{
+    font-size:25px;
+    font-weight:bolder;
+}
+
+#btn{
+    height:40px;
+    width:140px;
+    font-size:20px;
+    font-weight:bolder;
+    background:#dadada;
+    color: #000;
+    border-radius: 5px;
+    border:none;
+    outline:none;
+    cursor: pointer;
+    transition: .3s;
+}
+
+#loader{
+    height:100px;
+    width:100px;
+    border-radius:100%;
+    border-left:solid 12px #000;
+    border-right:solid 12px #757575;
+    border-bottom:solid 12px #757575;
+    border-top:solid 12px #757575;
+    animation:rotat 2s linear infinite;
+}
+
+@keyframes rotat{
+    from{
+       transform:rotateZ(0deg); 
+    }
+
+    to{
+        transform:rotateZ(360deg);
+    }
+}
