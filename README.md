@@ -1,2 +1,3 @@
-# youtube-code
- code i make for utube videos
+# Code for YouTube videos.
+
+All the codes for i make for youtube.
