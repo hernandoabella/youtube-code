@@ -1,4 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
+*{
+    font-family: 'Dosis', sans-serif;
+}
+
 body {
+    background: #A770EF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
     margin:0;
     padding:0;
 }
@@ -8,16 +19,16 @@ canvas{
 }
 p{
     position:fixed;
-    color:#fff;
-    top:0;
-    left:0;
+    color: #fff !important;;
+    top: -10px;
+    left: 10px;
     font-weight:bold;
 }
 #player{
     height:30px;
     width:30px;
     border-radius:100%;
-    background-color:red;
+    background-color:#FDB99B;
     position:fixed;
     bottom:50px;
     left:50px;
@@ -35,16 +46,17 @@ p{
 .card{
     height:360px;
     width:300px;
-    background-color:#dadada;
+    background-color:#fff;
     display:flex;
     align-items:center;
     justify-content:center;
     flex-direction:column;
-    border-radius:20px;
+    border-radius: 25px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .card p{
     color:#000;
-    position:relative;
+    
     font-size:20px;
     font-weight:bold;
     
@@ -57,9 +69,18 @@ p{
     font-weight:bold;
     height:40px;
     width:100px;
-    background-color:red;
+    background:#FDB99B;
     border-radius:8px;
+    margin-top: 10px;
+    transition: .3s;
+    cursor: pointer;
 }
+
+#btn:hover{
+    background:#A770EF;
+    color: #fff;
+}
+
 #sco{
     display:none;
 }
