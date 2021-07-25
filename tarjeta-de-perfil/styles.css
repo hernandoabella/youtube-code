@@ -10,10 +10,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   font-family: "poppins", sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
+  height: 100vh;
 }
 
 .card {
@@ -25,8 +22,11 @@ body {
   box-shadow: 10px 10px 70px rgba(0, 0, 0, 0.2);
   border: solid 1px aqua;
   background: rgba(255, 255, 255, 0.3);
-  position: relative;
+  position: absolute;
   z-index: 3;
+  transform: translate(-50%, -50%);
+  top: 54%;
+  left: 50%;
 }
 .card .p-profile {
   display: flex;
