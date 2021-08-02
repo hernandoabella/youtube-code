@@ -1,3 +1,3 @@
-# Code for YouTube videos.
+# Códigos de Youtube
 
-All the codes for i make for youtube.
+Colección de códigos que subo a Youtube.
