@@ -40,7 +40,7 @@ ul li a:hover {
 }
 
 ul li a .fab {
-  widht: 100%;
+  width: 100%;
   height:100%;
   display:block;
   background: linear-gradient(0deg, #fff, #ddd);
