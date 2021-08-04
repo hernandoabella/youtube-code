@@ -41,18 +41,3 @@ section p {
     50% { background: var(--cream); }
     100% { background: var(--black); }
 }
-@media (max-width: 576px) {
-    section p {
-        font-size: 2rem;
-    }
-}
-footer {
-    display: flex;
-    justify-content: center;   
-    align-items: center;
-    height: 10vh;
-}
-footer a {
-    color: var(--orange);
-    text-decoration: none;
-}
