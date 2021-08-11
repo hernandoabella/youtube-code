@@ -52,3 +52,4 @@ function displayNumber(el, number) {
 		}
 	});
 }
+
