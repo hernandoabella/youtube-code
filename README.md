@@ -25,9 +25,12 @@ Colección exclusiva de códigos de mi canal de [ YouTube](youtube.com/channel/U
 | 16  | Tarjeta de perfil                 | Tarjeta de perfil         |  ★★☆☆☆      | Descargar |  [▶️ ](https://www.youtube.com/watch?v=dPLJDGfxIKo&t)          |
 | 17  | Texto con efecto hover            | Texto con efecto hover    |  ★☆☆☆☆      | Descargar |  [▶️ ](https://www.youtube.com/watch?v=pNhC0epjx4c&t)          |
 | 18  | Formulario de ingreso             | Formulario deslizante     |  ★★☆☆☆      | Descargar |  [▶️ ](https://youtube.com/watch?v=aHlwAWbR7MI&t)              |  
-| 19  | Toggle dark mode                  | Toggle dark mode          |  ★☆☆☆☆      | Descargar |  [▶️ ](https://www.youtube.com/watch?v=drK9VNbwM4g)            |
-| 20  | Iconos flotantes                  | Iconos flotantes          |  ★★☆☆☆      | Descargar |  [▶️ ](https://www.youtube.com/watch?v=drK9VNbwM4g)            |
-| 21  | Efecto vidrio escarchado          | Efecto vidrio escarchado  |  ★☆☆☆☆      | Descargar |  [▶️ ](youtube.com/watch?v=BMa9pQ7b4_4)                        |
+| 19  | Toggle dark mode                  | Toggle dark mode          |  ★★☆☆☆      | Descargar |  [▶️ ](https://www.youtube.com/watch?v=8JAYwgYhiRU)            |
+| 20  | Iconos flotantes                  | Iconos flotantes          |  ★★☆☆☆      | Descargar |  [▶️ ](https://www.youtube.com/watch?v=wDFjWEAiUkQ&t)          |
+| 21  | Efecto vidrio escarchado          | Efecto vidrio escarchado  |  ★☆☆☆☆      | Descargar |  [▶️ ](https://www.youtube.com/watch?v=GPrUVUC-N9s)            |
+| 21  | Efecto de estritura               | Efecto de escritura       |  ★★☆☆☆      | Descargar |  [▶️ ](https://www.youtube.com/watch?v=TIEAxQh-Bj0)            |
+| 21  | Tarjeta de usuario                | Tarjeta de usuario        |  ★★☆☆☆      | Descargar |  [▶️ ](https://www.youtube.com/watch?v=s4SaVS5KpFU&t)          |
+| 21  | Reloj digital                     | Reloj digital             |  ★★★☆☆      | Descargar |  [▶️ ](https://www.youtube.com/watch?v=Z0oCaBhy0Qs)            |
 | 22  | Botón de pulso                    | Botón de pulso            |  ★★☆☆☆      | Descargar |  [▶️ ](youtube.com/watch?v=BMa9pQ7b4_4)                        |
 
 
