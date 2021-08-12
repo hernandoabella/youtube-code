@@ -5,6 +5,8 @@ Colección exclusiva de códigos HTML, CSS & JAVASCRIPT que subo a Youtube.
 
 ## Snippets 🎉
  
-|  #                |  Aplicación     |  Descripción                                | Dificultad    | Descarga      | Youtube 👀  |    
-| -------------     | -------------   |:-------------:                              |:-------------:| -----:        |-----:        |
-| 1                 | Contador        | Esta aplicación te permite contar números.  |  ★★☆☆☆     | Descargar      |🔗 [youtube](youtube.com/watch?v=BMa9pQ7b4_4)|
+|  #            |  Aplicación     |  Descripción    | Dificultad    | Descarga      | Youtube |    
+| ------------- | -------------   |:-------------:  |:-------------:| -----:        |-----:        |
+
+| 1  | Botón Hover avanzado       | ...  |  ★★☆☆☆     | Descargar | 👁️ [Ver en YouTube](https://www.youtube.com/watch?v=drK9VNbwM4g)|
+| ?  | Botón CSS                  | ...  |  ★★☆☆☆     | Descargar | 👁️ [Ver en YouTube](youtube.com/watch?v=BMa9pQ7b4_4)|
