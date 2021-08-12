@@ -3,9 +3,9 @@
 Colección exclusiva de códigos HTML, CSS & JAVASCRIPT que subo a Youtube.
 
 
-## Snippets 🎉
+## Proyectos 🎉
  
-|  #            |  Aplicación     |  Descripción    | Dificultad    | Descarga      | Youtube |    
+|  #            |  Proyecto     |  Descripción    | Dificultad    | Descarga      | Youtube |    
 | ------------- | -------------   |:-------------:  |:-------------:| -----:        |-----:    |
 
 | 1  | Botón Hover avanzado       | dede  |  ★★☆☆☆     | Descargar |  [👁️ YouTube](https://www.youtube.com/watch?v=drK9VNbwM4g)|
