@@ -6,7 +6,7 @@ Colección exclusiva de códigos de mi canal de [ YouTube](youtube.com/channel/U
 ## Proyectos 🎉
  
 |  #  |  Proyecto                         |                                                                |    
-| --- | -------------                     | -------------             | ---                                |
+| --- | -------------                     | ---                                                            |
 | 1   | Botón hover avanzado              |  [▶️ ](https://www.youtube.com/watch?v=drK9VNbwM4g)            |
 | 2   | Menú hamburguesa #1               |  [▶️ ](https://www.youtube.com/watch?v=nNLTxpZ-v9k&t=183s)     |
 | 3   | Lluvia matrix con cmd             |  [▶️ ](https://www.youtube.com/watch?v=s_wbNHG8HNg)            |
@@ -31,9 +31,9 @@ Colección exclusiva de códigos de mi canal de [ YouTube](youtube.com/channel/U
 | 21  | Efecto de estritura               |  [▶️ ](https://www.youtube.com/watch?v=TIEAxQh-Bj0)            |
 | 21  | Tarjeta de usuario                |  [▶️ ](https://www.youtube.com/watch?v=s4SaVS5KpFU&t)          |
 | 21  | Reloj digital                     |  [▶️ ](https://www.youtube.com/watch?v=Z0oCaBhy0Qs)            |
-| 22  | Botón de pulso                    |  [▶️ ](https://www.youtube.com/watch?v=BMa9pQ7b4_4)                        |
-| 23  | Bouncy Embossed Clock             |  [▶️ ](https://www.youtube.com/watch?v=BbzjPEBEOf4&t=1s)                        |
-| 23  | CSS mouse-out transition effect   |  [▶️ ](youtube.com/watch?v=BMa9pQ7b4_4)                        |
+| 22  | Botón de pulso                    |  [▶️ ](https://www.youtube.com/watch?v=BMa9pQ7b4_4)            |
+| 23  | Bouncy Embossed Clock             |  [▶️ ](https://www.youtube.com/watch?v=BbzjPEBEOf4&t=1s)       |
+| 23  | CSS mouse-out transition effect   |  [▶️ ]()                        |
 
 
 
