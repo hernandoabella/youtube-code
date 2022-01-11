@@ -6,12 +6,12 @@ Colección exclusiva de códigos de mi canal de [YouTube](youtube.com/channel/UC
 
 |  #  |  Proyecto                         |                                                                |    
 | --- | -------------                     | ---                                                            |
-| 1  | CSS mouse-out transition effect   |  [▶️ ]()         |
+| 1  | Botón Hover Avanzado con CSS3   |  [▶️ ](https://www.youtube.com/watch?v=drK9VNbwM4g)         |
 | 2  | Botón 3D                          |  [▶️ ]()                        |
 
 
 <ol>
-        <li><a href="https://www.youtube.com/watch?v=drK9VNbwM4g" target="_blank">Botón Hover Avanzado con CSS3</a></li>
+        <li><a href="" target="_blank"></a></li>
         <li><a href="https://www.youtube.com/watch?v=nNLTxpZ-v9k" target="_blank">Menú Hamburguesa #1</a></li>
         <li><a href="https://www.youtube.com/watch?v=s_wbNHG8HNg&t" target="_blank">Efecto: Lluvia Matrix con CMD :O</a></li>
         <li><a href="https://www.youtube.com/watch?v=J37tFkchRxM" target="_blank">Juego: Color Raro | HTML CSS JAVASCRIPT</a></li>
