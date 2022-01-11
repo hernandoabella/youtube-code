@@ -4,7 +4,7 @@ Colección exclusiva de códigos de mi canal de [YouTube](youtube.com/channel/UC
 
 ## Proyectos 🎉
 
-| #   | Proyecto                                                           | Enlaces                                                        |    
+| #   | Proyectos                                                          | Videos                                                         |    
 |-----|--------------------------------------------------------------------|----------------------------------------------------------------|
 | 1   | Botón Hover Avanzado con CSS3                                      |  [▶️ ](https://www.youtube.com/watch?v=drK9VNbwM4g)            |
 | 2   | Menú Hamburguesa #1                                                |  [▶️ ](https://www.youtube.com/watch?v=nNLTxpZ-v9k)            |
