@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Rubik:700&display=swap");
+
 * {
   box-sizing: border-box;
 }
+
 *::before, *::after {
   box-sizing: border-box;
 }
@@ -29,7 +31,8 @@ button {
   font-size: inherit;
   font-family: inherit;
 }
-button.learn-more {
+
+button.aprende__mas {
   font-weight: 600;
   color: #382b22;
   text-transform: uppercase;
@@ -40,7 +43,8 @@ button.learn-more {
   transform-style: preserve-3d;
   transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), background 150ms cubic-bezier(0, 0, 0.58, 1);
 }
-button.learn-more::before {
+
+button.aprende__mas::before {
   position: absolute;
   content: "";
   width: 100%;
@@ -55,19 +59,23 @@ button.learn-more::before {
   transform: translate3d(0, 0.75em, -1em);
   transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), box-shadow 150ms cubic-bezier(0, 0, 0.58, 1);
 }
-button.learn-more:hover {
+
+button.aprende__mas:hover {
   background: #ffe9e9;
   transform: translate(0, 0.25em);
 }
-button.learn-more:hover::before {
+
+button.aprende__mas:hover::before {
   box-shadow: 0 0 0 2px #b18597, 0 0.5em 0 0 #ffe3e2;
   transform: translate3d(0, 0.5em, -1em);
 }
-button.learn-more:active {
+
+button.aprende__mas:active {
   background: #ffe9e9;
   transform: translate(0em, 0.75em);
 }
-button.learn-more:active::before {
+
+button.aprende__mas:active::before {
   box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
   transform: translate3d(0, 0, -1em);
 }
