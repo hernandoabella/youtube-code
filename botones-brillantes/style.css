@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     display: flex;
     justify-content: center;
@@ -13,6 +15,7 @@ body{
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
 }
+
 a{
     position: relative;
     display: inline-block;
@@ -27,6 +30,7 @@ a{
     margin-right: 50px;
    
 }
+
 a:hover{
     background: #03e9f4;
     color: #050801;
@@ -36,16 +40,20 @@ a:hover{
                 0 0 200px #03e9f4;
      -webkit-box-reflect:below 1px linear-gradient(transparent, #0005);
 }
+
 a:nth-child(1){
     filter: hue-rotate(270deg);
 }
+
 a:nth-child(2){
     filter: hue-rotate(110deg);
 }
+
 a span{
     position: absolute;
     display: block;
 }
+
 a span:nth-child(1){
     top: 0;
     left: 0;
@@ -54,6 +62,7 @@ a span:nth-child(1){
     background: linear-gradient(90deg,transparent,#03e9f4);
     animation: animate1 1s linear infinite;
 }
+
 @keyframes animate1{
     0%{
         left: -100%;
@@ -62,6 +71,7 @@ a span:nth-child(1){
         left: 100%;
     }
 }
+
 a span:nth-child(2){
     top: -100%;
     right: 0;
@@ -71,6 +81,7 @@ a span:nth-child(2){
     animation: animate2 1s linear infinite;
     animation-delay: 0.25s;
 }
+
 @keyframes animate2{
     0%{
         top: -100%;
@@ -79,6 +90,7 @@ a span:nth-child(2){
         top: 100%;
     }
 }
+
 a span:nth-child(3){
     bottom: 0;
     right: 0;
@@ -88,6 +100,7 @@ a span:nth-child(3){
     animation: animate3 1s linear infinite;
     animation-delay: 0.50s;
 }
+
 @keyframes animate3{
     0%{
         right: -100%;
@@ -96,7 +109,6 @@ a span:nth-child(3){
         right: 100%;
     }
 }
-
 
 a span:nth-child(4){
     bottom: -100%;
@@ -107,6 +119,7 @@ a span:nth-child(4){
     animation: animate4 1s linear infinite;
     animation-delay: 0.75s;
 }
+
 @keyframes animate4{
     0%{
         bottom: -100%;
