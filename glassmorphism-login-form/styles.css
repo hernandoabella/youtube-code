@@ -17,19 +17,19 @@ section {
     background: linear-gradient(to bottom, #f7f7fe, #dff1ff);
 }
 
-section .colour {
+section .color {
     position: absolute;
     filter: blur(150px);
 }
 
-section .colour:nth-child(1) {
+section .color:nth-child(1) {
     top: -350px;
     width: 600px;
     height: 600px;
     background: #bf4ad4;
 }
 
-section .colour:nth-child(2) {
+section .color:nth-child(2) {
     left: 100px;
     width: 500px;
     height: 500px;
@@ -37,7 +37,7 @@ section .colour:nth-child(2) {
     background: #ffa500;
 }
 
-section .colour:nth-child(3) {
+section .color:nth-child(3) {
     right: 100px;
     bottom: 50px;
     width: 300px;
@@ -45,11 +45,11 @@ section .colour:nth-child(3) {
     background: #2b67f3;
 }
 
-.box {
+.caja {
     position: relative;
 }
 
-.box .square {
+.caja .square {
     position: absolute;
     border-radius: 10px;
     backdrop-filter: blur(5px);
@@ -74,14 +74,14 @@ section .colour:nth-child(3) {
     }
 }
 
-.box .square:nth-child(1) {
+.caja .square:nth-child(1) {
     top: -50px;
     left: -60px;
     width: 100px;
     height: 100px;
 }
 
-.box .square:nth-child(2) {
+.caja .square:nth-child(2) {
     z-index: 2;
     top: 150px;
     left: -100px;
@@ -89,7 +89,7 @@ section .colour:nth-child(3) {
     height: 120px;
 }
 
-.box .square:nth-child(3) {
+.caja .square:nth-child(3) {
     z-index: 2;
     width: 80px;
     height: 80px;
@@ -97,14 +97,14 @@ section .colour:nth-child(3) {
     bottom: -60px;
 }
 
-.box .square:nth-child(4) {
+.caja .square:nth-child(4) {
     left: 100px;
     width: 50px;
     height: 50px;
     bottom: -80px;
 }
 
-.box .square:nth-child(5) {
+.caja .square:nth-child(5) {
     top: -80px;
     left: 140px;
     width: 60px;
