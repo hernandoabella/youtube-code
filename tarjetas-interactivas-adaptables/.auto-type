@@ -1,0 +1,10 @@
+file: styles.css
+line: 46
+align: top
+---
+↓↓↓↓↓↓↓⇥
+    if (!app.selectedCities) {
+      app.selectedCities = [];
+    }↓↓⇥
+    app.selectedCities.push({key: key, label: label});
+    app.saveSelectedCities();

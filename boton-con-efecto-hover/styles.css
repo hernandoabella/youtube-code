@@ -1,7 +1,7 @@
-html,
-body {
+html, body {
     height: 100%;
 }
+
 body {
     display: flex;
     align-items: center;
@@ -24,10 +24,12 @@ button {
     font-size: inherit;
     font-family: inherit;
 }
-button.about-me {
+
+button.sobre-mi {
     width: 12rem;
 }
-button.about-me .circle {
+
+button.sobre-mi .circulo {
     transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
     position: relative;
     display: block;
@@ -37,33 +39,37 @@ button.about-me .circle {
     background: #30b9b9;
     border-radius: 1.625rem;
 }
-button.about-me .circle .icon {
+
+button.sobre-mi .icon {
     transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
     position: absolute;
     top: 0;
     bottom: 0;
     margin: auto;
-    background: #ffffff;
+    background: #fff;
 }
-button.about-me .circle .icon.arrow {
+
+button.sobre-mi .circulo .icon.arrow {
     transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
     left: 0.625rem;
     width: 1.125rem;
     height: 0.125rem;
     background: none;
 }
-button.about-me .circle .icon.arrow::before {
+
+button.sobre-mi .circulo .icon.arrow::before {
     position: absolute;
     content: "";
     top: -0.29rem;
     right: 0.0625rem;
     width: 0.625rem;
     height: 0.625rem;
-    border-top: 0.125rem solid #ffffff;
-    border-right: 0.125rem solid #ffffff;
+    border-top: 0.125rem solid #fff;
+    border-right: 0.125rem solid #fff;
     transform: rotate(45deg);
 }
-button.about-me .button-text {
+
+button.sobre-mi .texto-del-boton {
     transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
     position: absolute;
     top: 0;
@@ -78,13 +84,16 @@ button.about-me .button-text {
     text-align: center;
     text-transform: uppercase;
 }
-button:hover .circle {
+
+button:hover .circulo {
     width: 100%;
 }
-button:hover .circle .icon.arrow {
-    background: #ffffff;
+
+button:hover .circulo .icon.arrow {
+    background: #fff;
     transform: translate(1rem, 0);
 }
-button:hover .button-text {
-    color: #ffffff;
+
+button:hover .texto-del-boton {
+    color: #fff;
 }
