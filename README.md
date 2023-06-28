@@ -1,6 +1,6 @@
-# Códigos de Youtube
+# Youtube Code
 
-Colección exclusiva de códigos de mi canal de [YouTube](youtube.com/channel/UCbyhGk_f2lBR3qAif4dA7Bw)
+Colección exclusiva de códigos de mi canal de [YouTube](youtube.com/c/hernandoabella)
 
 ## Proyectos 🎉
 
