@@ -36,3 +36,4 @@ Colección exclusiva de códigos de mi canal de [YouTube](youtube.com/c/hernando
 | 28  | Drum kit using HTML CSS y JAVASCRIPT                               |  [▶️ ](https://www.youtube.com/watch?v=qxzUw3zHB2s)            |
 | 29  | Bouncy Embossed Clock using HTML CSS & JS                          |  [▶️ ](https://www.youtube.com/watch?v=BbzjPEBEOf4&t)          |
 | 30  | mouse-out transition effect using html and css                     |  [▶️ ](https://www.youtube.com/watch?v=twOaskar-5E)            |
+| 31  | mouse-out transition effect using html and css                     |  [▶️ ](https://www.youtube.com/watch?v=twOaskar-5E)            |
